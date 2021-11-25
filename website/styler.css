@@ -1,0 +1,141 @@
+header{
+	width:100%;
+	height:80px;
+	margin-top:-15px;
+	background-color:#0A0000;
+}
+
+body{
+
+	margin:0;
+}
+
+table{
+	margin-left:60px;
+	margin-top:15px;
+}
+
+footer{
+	margin-bottom:0px;
+	background-color:#0A0000;
+	height:40px;
+}
+h5{
+	font-size:20px;
+	font-family:Cooper Black;
+	color:#005a9e;
+	margin-top:-10px;
+	margin-left:200px;
+	padding-top:20;px
+}
+h2{
+	font-size:40px;
+	font-family:Cooper Black;
+	color:#005a9e;
+	text-align:center;
+	margin-bottom:-20px;
+}
+h4{
+	font-size:15px;
+}
+h3{
+	font-size:30px;
+	font-family:Cooper Black;
+	color:#005a9e;
+	text-align:center;
+	margin-top:-5px;
+	margin-bottom:-20px;
+}
+input[type="text"]{
+	height:35px;
+	width:380px;
+	border-color:#fff;
+	border-radius:8px;
+	background-color:#F0F7F7;
+	margin-left:100px;
+	margin-top:-2px;
+}
+
+input[type="submit"]{
+	height:35px;
+	width:380px;
+	border-color:#fff;
+	border-radius:8px;
+	background-color:#D74545;	
+	margin-left:100px;
+	color:white;
+}
+.text{
+	text-align:center;
+	font-size:22px;
+	font-family:Times New Roman;
+}
+.text1{
+	margin-left:-206px;
+	text-align:center;
+	font-size:22px;
+	font-family:Times New Roman;
+}
+a:link {
+  color: #fff;
+  text-decoration: none;
+}
+a:visited {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.title{
+	color:#FFFFFF;
+	font-size:45px;
+	width:750px;
+	font-family:Verdana;
+}
+.heading{	
+	color:#fff;
+	font-size:25px;
+	font-weight:bold;
+    text-align: center;
+	font-family:Source Sans Pro, sans-serif;
+} 
+.intro{
+	height:601px;
+	background-color:#C2B6B6;
+}
+.image{
+	margin:12px 8px 12px 8px;
+	width:500px;
+	height:200px;
+	border-radius:20px;
+	box-shadow: 0 0 8px 2px rgba(0, 0, 0, 0.8);
+}
+.pi{
+	margin-top:50px;
+	margin-left:200px;
+	width:400px;
+	height:490px;
+	border-radius:20px;
+	box-shadow: 0 0 8px 2px rgba(0, 0, 0, 0.8);
+}
+
+.fab{
+	color:#fff;
+	margin:3px 5px 5px 3px;
+}
+.skill{
+    background-color: rgb(116, 194, 92);
+    color: white;
+    padding: 1%;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.map{
+	
+}
+.container {
+	background-color: rgb(188,234,220);
+	width: 100%;
+	height:25px;
+	border-radius: 15px;
+}
